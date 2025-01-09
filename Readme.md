@@ -21,8 +21,6 @@ u_z = \frac{u_*}{\kappa} \ln \left( \frac{z - d}{z_0} \right).
 - When estimating wind loads on structures, the terrains may be described as suburban or dense urban, for which the ranges are typically \(0.1\) to \(0.5\) m and \(1.0\) to \(5.0\) m, respectively.
 In order to estimate the mean wind speed at one height (\(z_2\)) based on that at another (\(z_1\)), the formula would be rearranged:
 
-\[
-u(z_2) = u(z_1) \frac{\ln \left( \frac{z_2 - d}{z_0} \right)}{\ln \left( \frac{z_1 - d}{z_0} \right)},
-\]
+$u(z_2) = u(z_1) \frac{\ln \left( \frac{z_2 - d}{z_0} \right)}{\ln \left( \frac{z_1 - d}{z_0} \right)},$
 
 where \(u(z_1)\) is the mean wind speed at height \(z_1\).
